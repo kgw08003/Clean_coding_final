@@ -1,4 +1,4 @@
-![마켓컬리](https://github.com/user-attachments/assets/83b34d9d-6efc-4f90-bc7e-8397ecb7ba9e)# 🦁멋쟁이 사자처럼 쇼핑몰 구축 팀 프로젝트 🦁
+# 🦁멋쟁이 사자처럼 쇼핑몰 구축 팀 프로젝트 🦁
 ###  🚀Clean_Curly 프로젝트 최종 🚀
 - 마켓컬리 백엔드 클론코딩 프로젝트.
 - 이커머스 사이트의 필수 기능을 구현
