@@ -13,10 +13,6 @@
 - Framework : `Django`
 
 
-
-@@@@수정중@@@@
-
-
 ### 🤗 팀 멤버
 - [신덕근](https://github.com/shindeokgeun)
 - [김향은](https://github.com/myangeun)
